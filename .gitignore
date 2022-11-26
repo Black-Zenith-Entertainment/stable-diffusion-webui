@@ -28,5 +28,6 @@ notification.mp3
 /SwinIR
 /textual_inversion
 .vscode
-*.pt
-*.pt
+/extensions
+/test/stdout.txt
+/test/stderr.txt
